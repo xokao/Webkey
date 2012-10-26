@@ -10097,7 +10097,7 @@ int main(int argc, char **argv)
 	
 	init_sqlite3();
 
-	port = 80;
+	port = 81;
 	sslport = 443;
 	read_prefs();
 	if (argc >= 2)
